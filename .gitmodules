@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "fdANOVA"]
+	path = fdANOVA
+	url = https://github.com/cran/fdANOVA
+	shallow = true
+	registered = true
+[submodule "GFDmcv"]
+	path = GFDmcv
+	url = https://github.com/cran/GFDmcv
+	shallow = true
+	registered = true
