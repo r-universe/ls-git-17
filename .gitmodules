@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "fdANOVA"]
 	path = fdANOVA
 	url = https://github.com/cran/fdANOVA
-	shallow = true
-	registered = true
 [submodule "GFDmcv"]
 	path = GFDmcv
 	url = https://github.com/cran/GFDmcv
-	shallow = true
-	registered = true
 [submodule "rmfanova"]
 	path = rmfanova
 	url = https://github.com/cran/rmfanova
-	shallow = true
-	registered = true
