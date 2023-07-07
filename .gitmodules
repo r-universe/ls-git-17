@@ -8,6 +8,9 @@
 [submodule "GFDmcv"]
 	path = GFDmcv
 	url = https://github.com/cran/GFDmcv
+[submodule "multiFANOVA"]
+	path = multiFANOVA
+	url = https://github.com/cran/multiFANOVA
 [submodule "rmfanova"]
 	path = rmfanova
 	url = https://github.com/cran/rmfanova
