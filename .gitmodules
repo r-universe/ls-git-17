@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "fdANOVA"]
-	path = fdANOVA
-	url = https://github.com/cran/fdANOVA
 [submodule "GFDmcv"]
 	path = GFDmcv
 	url = https://github.com/cran/GFDmcv
+[submodule "fdANOVA"]
+	path = fdANOVA
+	url = https://github.com/cran/fdANOVA
 [submodule "multiFANOVA"]
 	path = multiFANOVA
 	url = https://github.com/cran/multiFANOVA
