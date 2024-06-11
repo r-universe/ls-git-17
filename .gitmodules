@@ -8,6 +8,9 @@
 [submodule "fdANOVA"]
 	path = fdANOVA
 	url = https://github.com/cran/fdANOVA
+[submodule "gmtFD"]
+	path = gmtFD
+	url = https://github.com/cran/gmtFD
 [submodule "multiFANOVA"]
 	path = multiFANOVA
 	url = https://github.com/cran/multiFANOVA
